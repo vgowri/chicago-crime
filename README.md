@@ -3,26 +3,37 @@ Chicago Crime Data Analysis
 This project provides an in-depth analysis of crime data in Chicago. Using various data visualizations and insights, the project aims to explore crime trends, geographic distributions, and seasonal patterns. The analysis also highlights the relationship between crime occurrences, time, and arrests, offering valuable insights into law enforcement strategies.
 
 Table of Contents
+
 Project Overview
-Features
-Data
-Analysis Details
+
+Features Data Analysis Details
 Crime Count
+
 Geographic Distribution of Crimes
+
 Time-based Crime Trends
+
 Arrest Insights
+
 Seasonal Crime Analysis
+
 Interactive Filters for Analysis  
+
 Project Overview
 This project analyzes crime data from Chicago to identify patterns and trends in crime occurrences. The data is used to generate insights such as crime distribution across seasons, geographic locations, time trends, and arrest data. The project also includes interactive filters to explore different crime-related questions and scenarios.
 
-Features
-Crime Count: Displays the total number of crimes recorded in the dataset.
+Features Crime Count: Displays the total number of crimes recorded in the dataset.
+
 Geographic Distribution of Crimes: Visualizes crime occurrences across different geographic locations in Chicago.
+
 Time-based Crime Trends: Analyzes how crime rates vary over time (monthly, yearly, etc.).
+
 Arrest Insights: Provides insights into arrest data associated with crimes.
+
 Seasonal Crime Analysis: Shows how crime rates fluctuate across different seasons (Spring, Summer, Fall, Winter).
+
 Interactive Filters: Allows users to filter crime data by different variables (e.g., crime type, date, location, etc.).
+
 Data
 This project uses crime data from Chicago Crime Data, which contains information about reported incidents of crime that have occurred in the city of Chicago. The dataset includes attributes such as crime type, location, date, and whether an arrest was made.
 
